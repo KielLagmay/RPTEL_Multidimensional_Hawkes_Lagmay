@@ -1,0 +1,4 @@
+Modality,coefficient,p,XY
+(FULLY ONLINE),-0.16,0.0,influence_CL-influence_LC
+(FULLY ONLINE),-0.09,0.0,influence_AC-influence_CL
+(FULLY ONLINE),-0.08,0.01,influence_AA-influence_AC

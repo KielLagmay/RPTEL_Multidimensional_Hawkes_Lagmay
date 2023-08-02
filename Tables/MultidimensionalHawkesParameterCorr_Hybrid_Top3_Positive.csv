@@ -1,0 +1,4 @@
+Modality,coefficient,p,XY
+(HYBRID),0.32,0.0,influence_CC-influence_LC
+(HYBRID),0.28,0.0,influence_AC-influence_LC
+(HYBRID),0.25,0.0,influence_AC-influence_CC

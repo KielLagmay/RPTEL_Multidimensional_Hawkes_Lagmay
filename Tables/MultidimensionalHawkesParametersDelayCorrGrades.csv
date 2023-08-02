@@ -1,0 +1,7 @@
+Modality,dimension,coefficient_delay,p_delay,coefficient_delay_adj,p_delay_adj
+(FULLY ONLINE),A,-0.07,0.01,-0.07,0.01
+(FULLY ONLINE),C,,,,
+(FULLY ONLINE),L,-0.02,0.42,-0.02,0.42
+(HYBRID),A,-0.02,0.6,-0.02,0.6
+(HYBRID),C,,,,
+(HYBRID),L,-0.03,0.36,-0.03,0.36
